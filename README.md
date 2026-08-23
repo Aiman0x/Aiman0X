@@ -32,15 +32,24 @@
 
 ---
 
-## 👩‍💻 About Me
+**Lekin** agar tum aur zyada premium look chahti ho, mujhe ye wala best lagta hai:
 
-```text
-┌──────────────────────────────────────────────┐
-│  👩‍💻  BS Cybersecurity Student               │
-│  🔐  Cybersecurity & Ethical Hacking          │
-│  🌐  Networking & Security Fundamentals       │
-│  🐍  Python & Security Automation             │
-│  🐧  Linux & Kali Linux                       │
-│  🧪  Hands-on Security Labs                   │
-│  🎯  Building a Professional Cyber Portfolio │
+```markdown
+## ⚡ About Me
+
+<div align="center">
+
+> 🔐 **Cybersecurity Student**  
+> 🌐 Exploring **Networking & Web Security**  
+> 🐧 Learning **Linux & Kali Linux**  
+> 🐍 Building with **Python**  
+> 🔎 Practicing **Nmap & Security Tools**  
+> 🧪 Learning through **TryHackMe & Hands-on Labs**  
+> 🚀 Turning knowledge into **practical projects**
+
+<br>
+
+**`Curious Mind • Security First • Always Learning ⚡`**
+
+</div>
 └──────────────────────────────────────────────┘
