@@ -1,12 +1,12 @@
-# Hi, I'm Aiman 👋
+<div align="center">
+
+# 👋 Hi, I'm Aiman
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BS+Cybersecurity+Student+%F0%9F%94%90;Cybersecurity+%7C+Python+%7C+Networking;Learning.+Building.+Securing.+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
 ### 🔐 Cybersecurity Student | Python | Networking | Linux
 
-I'm a BS Cybersecurity student interested in building practical skills in cybersecurity, networking, Linux, and security automation.
-
-I’m currently learning and working on hands-on projects to strengthen my technical skills and build a professional cybersecurity portfolio.
-
----
+</div>
 
 ## 🛡️ What I'm Learning
 
