@@ -96,13 +96,13 @@
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-Aiman0xE&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman0x&theme=react-dark&hide_border=true" alt="Contribution Graph" width="95%"/>
 
 </div>
 
@@ -131,14 +131,14 @@
 <table>
   <tr>
     <td align="center"><https://github.com/Aiman0x/Aiman0X/blob/main/certificatess/Cybersecurity_Defense_Analyst_Career_Path_certificate_aiman132046-gmail-com_c4d72626-d76d-4ac2-9a64-18c64711c367.pdf="260"/></td>
-    <td align="center"><img src="certificatess/Screenshot 2026-09-07 173018.png" width="260"/></td>
+    <!-- <td align="center"><img src="certificatess/Screenshot 2026-09-07 173018.png" width="260"/></td>
     <td align="center"><img src="./assets/certificates/cert3.png" width="260"/></td>
   </tr>
   <tr>
     <td align="center"><img src="./assets/certificates/cert4.png" width="260"/></td>
     <td align="center"><img src="./assets/certificates/cert5.png" width="260"/></td>
     <td align="center"><img src="./assets/certificates/cert6.png" width="260"/></td>
-  </tr>
+  </tr> -->
 </table>
 
 </div>
