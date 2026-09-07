@@ -114,27 +114,3 @@
 </div>
 
 ---
-
-## 🎯 Current Mission
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🔐 STRENGTHEN CYBERSECURITY FUNDAMENTALS         │
-│                                                     │
-│   🌐 Master Networking Concepts                    │
-│                                                     │
-│   🐧 Improve Linux & Kali Linux Skills              │
-│                                                     │
-│   🔎 Learn Security Tools                           │
-│                                                     │
-│   🐍 Build Python Security Scripts                 │
-│                                                     │
-│   🧪 Complete Hands-on Cybersecurity Labs           │
-│                                                     │
-│   🕷️ Practice Web Security                          │
-│                                                     │
-│   🚀 Build Real-World Security Projects             │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-
