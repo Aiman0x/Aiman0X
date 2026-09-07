@@ -130,7 +130,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="./assets/certificates/cert1.png" width="260"/></td>
+    <td align="center"><https://github.com/Aiman0x/Aiman0X/blob/main/certificatess/Cybersecurity_Defense_Analyst_Career_Path_certificate_aiman132046-gmail-com_c4d72626-d76d-4ac2-9a64-18c64711c367.pdf="260"/></td>
     <td align="center"><img src="./assets/certificates/cert2.png" width="260"/></td>
     <td align="center"><img src="./assets/certificates/cert3.png" width="260"/></td>
   </tr>
