@@ -1,14 +1,7 @@
-<!--
-  ============================================================
-  README.md ko apni GitHub profile repo (username/username) me
-  paste karna hai. Neeche jahan bhi ⚠️ likha hai, wahan apni
-  cheez daal dena — instructions har jagah comment me di hain.
-  ============================================================
--->
 
 <div align="center">
 
-# Aiman Salman
+# Hi I'm Aiman Salman
 
 <!-- ⚠️ Typing animation: yahan pe "I am a website pentester" pehle likhega,
      phir mit ke "Aspiring Cloud Security Engineer & Cloud Pentester" likhega, loop chalta rahega -->
