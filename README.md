@@ -70,17 +70,17 @@
 <div align="center">
 
 <a href="https://github.com/YOUR-GITHUB-USERNAME/Sentinel-Recon-Automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=Sentinel-Recon-Automation&theme=dark" alt="Sentinel-Recon-Automation"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiman0x&repo=Sentinel-Recon-Automation&theme=dark" alt="Sentinel-Recon-Automation"/>
 </a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME/Intelligent-Local-Lead-Generation-Business-Intelligence-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=Intelligent-Local-Lead-Generation-Business-Intelligence-Platform&theme=dark" alt="Local Lead Gen Platform"/>
+<a href="https://github.com/Aiman0x/Intelligent-Local-Lead-Generation-Business-Intelligence-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiman0x&repo=Intelligent-Local-Lead-Generation-Business-Intelligence-Platform&theme=dark" alt="Local Lead Gen Platform"/>
 </a>
 <br>
-<a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-3&theme=dark" alt="Repo 3"/>
+<a href="https://github.com/Aiman0x/REPO-NAME-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiman0x&repo=REPO-NAME-3&theme=dark" alt="Repo 3"/>
 </a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=REPO-NAME-4&theme=dark" alt="Repo 4"/>
+<a href="https://github.com/Aiman0x/REPO-NAME-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiman0x&repo=REPO-NAME-4&theme=dark" alt="Repo 4"/>
 </a>
 
 </div>
@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Aiman0x&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-Aiman0xE&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
@@ -131,14 +131,14 @@
 <table>
   <tr>
     <td align="center"><https://github.com/Aiman0x/Aiman0X/blob/main/certificatess/Cybersecurity_Defense_Analyst_Career_Path_certificate_aiman132046-gmail-com_c4d72626-d76d-4ac2-9a64-18c64711c367.pdf="260"/></td>
-    <!-- <td align="center"><img src="certificatess/Screenshot 2026-09-07 173018.png" width="260"/></td>
+    <td align="center"><img src="certificatess/Screenshot 2026-09-07 173018.png" width="260"/></td>
     <td align="center"><img src="./assets/certificates/cert3.png" width="260"/></td>
   </tr>
   <tr>
     <td align="center"><img src="./assets/certificates/cert4.png" width="260"/></td>
     <td align="center"><img src="./assets/certificates/cert5.png" width="260"/></td>
     <td align="center"><img src="./assets/certificates/cert6.png" width="260"/></td>
-  </tr> -->
+  </tr>
 </table>
 
 </div>
