@@ -152,14 +152,6 @@ I'm **Aiman Salman**, a Cyber Security student focused on building practical sec
 
 <div align="center">
 
-## 📈 Contribution Activity
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman0X&theme=github-compact&hide_border=false&area=true&custom_title=Aiman0X%20Contribution%20Activity" width="95%">
-
-</div>
-
 <div align="center">
 
 ## 📜 Certificates
