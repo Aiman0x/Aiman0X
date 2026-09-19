@@ -2,17 +2,29 @@
 
 # 👋 Hi, I'm Aiman Salman
 
-### Cyber Security Student • Security Tester • Red Team & Cloud Security Enthusiast
+### 🛡️ Cyber Security Student | Security Tester | Red Team & Cloud Security
+
+<p>
+  <img src="https://img.shields.io/badge/Cyber%20Security-Student-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
+  <img src="https://img.shields.io/badge/Web-Pentesting-161b22?style=for-the-badge&logo=burpsuite&logoColor=ff6633">
+  <img src="https://img.shields.io/badge/Red-Team-Explorer-161b22?style=for-the-badge&logo=kalilinux&logoColor=557C94">
+  <img src="https://img.shields.io/badge/Cloud-Security-161b22?style=for-the-badge&logo=icloud&logoColor=00AEEF">
+</p>
+
+<br>
 
 <a href="https://tryhackme.com/p/0xaky">
 <img src="https://img.shields.io/badge/TryHackMe-0xaky-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
 </a>
+
 <a href="https://www.linkedin.com/in/0xaky/">
 <img src="https://img.shields.io/badge/LinkedIn-0xaky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="https://profile.hackthebox.com/">
 <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111">
 </a>
+
 <a href="https://bugcrowd.com/h/0xaky">
 <img src="https://img.shields.io/badge/Bugcrowd-0xaky-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white">
 </a>
@@ -23,69 +35,57 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=800&lines=I+am+a+Cyber+Security+Student;I+am+a+Security+Tester;Exploring+Web+Application+Security;Learning+Red+Team+Techniques;Building+towards+Cloud+Security">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Security+Tester;Cyber+Security+Student;Web+Pentesting+%7C+Red+Team;Learning+Cloud+Security;Breaking+Things+%7C+Securing+Them">
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Aiman Salman**, a Cyber Security student focused on building practical security skills through hands-on labs, projects, and continuous learning.
+<table>
+<tr>
+<td width="55%">
 
-My current interests include:
+I'm **Aiman Salman**, a Cyber Security student focused on developing practical security skills through hands-on labs, penetration testing, security projects and continuous learning.
 
-- 🔐 Web Application Security & Penetration Testing
-- 🕵️ Reconnaissance and Security Testing
-- 🟥 Red Team Techniques
-- ☁️ Cloud Security
-- 🐧 Linux & Security Tooling
-- 🐍 Python for Security Automation
-- 🧪 CTFs, Vulnerable Labs & Practical Security Research
+🔐 **Web Application Security**
 
-> **Current focus:** strengthening my penetration-testing foundation and gradually moving toward cloud security.
+🕵️ **Reconnaissance & Security Testing**
 
----
+🟥 **Red Team Techniques**
 
-## 🛡️ Security Toolkit
+☁️ **Cloud Security**
 
-<p align="center">
+🐧 **Linux & Security Tools**
 
-<img src="https://img.shields.io/badge/Burp%20Suite-F05A28?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge&logo=nmap&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white">
-<img src="https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white">
-<img src="https://img.shields.io/badge/Snort-111111?style=for-the-badge&logo=snort&logoColor=white">
+🐍 **Python for Security Automation**
 
-</p>
+🧪 **CTFs & Vulnerable Labs**
 
----
+</td>
 
-## ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,react,nodejs,mysql,linux,git,docker">
-
-</p>
-
----
-
-## 🎯 What I'm Working On
+<td width="45%">
 
 ```text
-Web Pentesting
-    ├── Reconnaissance
-    ├── Authentication & Session Security
-    ├── SQL Injection
-    ├── XSS
-    ├── CSRF
-    ├── IDOR / Access Control
-    └── SSRF
-
-Next
-    ├── Advanced Web Security
-    ├── Network Pentesting
-    └── Cloud Security
+┌──────────────────────────┐
+│       CURRENT FOCUS      │
+├──────────────────────────┤
+│                          │
+│  Web Pentesting          │
+│  Recon                    │
+│  Authentication           │
+│  Session Security         │
+│  SQL Injection            │
+│  XSS                      │
+│  CSRF                     │
+│  IDOR                     │
+│  SSRF                     │
+│                          │
+│  ↓                       │
+│                          │
+│  Network Pentesting       │
+│          ↓               │
+│  Cloud Security           │
+│                          │
+└──────────────────────────┘
