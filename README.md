@@ -28,6 +28,13 @@
 </div>
 
 ---
+## 📊 GitHub Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman0X&theme=github-dark&hide_border=true&area=true">
+
+</div>
 
 ## 👩‍💻 About Me
 
@@ -72,6 +79,48 @@ My current interests include:
 </p>
 
 ---
+## 📜 Certificates
+
+<div align="center">
+
+### Cisco Networking Academy
+
+**Cybersecurity Defense Analyst Pathway Exam**
+
+<br>
+
+<img src="./assets/cybersecurity-defense-analyst.png" width="700">
+
+<br><br>
+
+<a href="https://www.netacad.com/">
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Certificate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+</a>
+
+</div>
+## 📂 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/Aiman0X/Recon_framework">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiman0X&repo=Recon_framework&theme=github_dark&hide_border=true">
+</a>
+
+<a href="https://github.com/Aiman0X/Cyberintern_projects-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiman0X&repo=Cyberintern_projects-&theme=github_dark&hide_border=true">
+</a>
+
+<br>
+
+<a href="https://github.com/Aiman0X/Security-Audit-Report">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiman0X&repo=Security-Audit-Report&theme=github_dark&hide_border=true">
+</a>
+
+<a href="https://github.com/Aiman0X/Self-working-of-Cyber-secuirty">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiman0X&repo=Self-working-of-Cyber-secuirty&theme=github_dark&hide_border=true">
+</a>
+
+</div>
 
 ## 🎯 What I'm Working On
 
