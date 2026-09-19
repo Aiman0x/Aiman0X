@@ -66,7 +66,7 @@ I'm **Aiman Salman**, a Cyber Security student focused on building practical sec
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+<img src="https://giphy.com/gifs/alert-caution-scam-rXOULiQiB54ieZR2Tw" width="280">
 
 <br><br>
 
