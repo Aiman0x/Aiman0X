@@ -77,6 +77,7 @@ My current interests include:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman0X&theme=github-dark&hide_border=true&area=true">
 
 </div>
+---
 ## 🟩 Contribution Calendar
 
 <div align="center">
@@ -84,6 +85,7 @@ My current interests include:
 <img src="https://ghchart.rshah.org/58A6FF/Aiman0X" alt="Aiman0X GitHub Contributions">
 
 </div>
+---
 ## 📜 Certificates
 
 <div align="center">
@@ -126,7 +128,7 @@ My current interests include:
 </a>
 
 </div>
-
+---
 ## 🎯 What I'm Working On
 
 ```text
