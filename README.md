@@ -27,15 +27,6 @@
 
 </div>
 
----
-## 📊 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman0X&theme=github-dark&hide_border=true&area=true">
-
-</div>
-
 ## 👩‍💻 About Me
 
 I'm **Aiman Salman**, a Cyber Security student focused on building practical security skills through hands-on labs, projects, and continuous learning.
@@ -79,6 +70,20 @@ My current interests include:
 </p>
 
 ---
+## 📊 GitHub Contributions
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiman0X&theme=github-dark&hide_border=true&area=true">
+
+</div>
+## 🟩 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58A6FF/Aiman0X" alt="Aiman0X GitHub Contributions">
+
+</div>
 ## 📜 Certificates
 
 <div align="center">
