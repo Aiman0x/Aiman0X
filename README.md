@@ -94,7 +94,7 @@ My current interests include:
 
 <br>
 
-<img src="./assets/cybersecurity-defense-analyst.png" width="700">
+<img src="https://github.com/Aiman0x/Aiman0X/blob/main/assetscybersecurity-defense-analyst.png" width="700">
 
 <br><br>
 
